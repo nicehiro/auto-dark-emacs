@@ -91,3 +91,4 @@ end tell")))
 (run-with-timer 0 auto-dark-emacs/polling-interval-seconds 'auto-dark-emacs/check-and-set-dark-mode)
 
 (provide 'auto-dark-emacs)
+;;; auto-dark-emacs.el ends here
